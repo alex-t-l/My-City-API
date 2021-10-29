@@ -1,4 +1,4 @@
-Alex Lai – MyCity Design document
+My City API
 
 Application
 Application takes in an input of a city name (spaces supported such as “New York” or “Palo Alto.
