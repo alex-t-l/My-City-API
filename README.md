@@ -14,7 +14,7 @@ Usage
 5.	GO INTO RUNIT.SH AND TYPE IN THE DESIRED CITY AFTER ‘MyCity’.
 6.	SAVE ALL AND TYPE IN ‘runit.sh’ TO RUN THE PROGRAM.
 7.	It will output the City’s weather info and some nearby cities for valid inputs.
-
+```
 Also works if you run locally on Java 
 Just do javac MyCity.java
 java MyCity {city name}
@@ -38,3 +38,4 @@ Bainbridge Island, WA
 Southworth, WA
 Shoreline, WA
 Manchester, WA
+```
