@@ -1,5 +1,8 @@
 My City API
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fplace%2FSeattle-Washington&psig=AOvVaw3xUkKtR22JjSG8W6dZ1lPq&ust=1635916676782000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDBp9b2-PMCFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/74996590/139790616-827260a0-3a5c-4fe2-8710-34005dc53b62.png)
+
+
 Application
 Application takes in an input of a city name (spaces supported such as “New York” or “Palo Alto.
 And GETS JSON file of a city’s weather information as from the Weather API. If this doesn’t work, it will attempt exponential backoff to reconnect to the server (in case the api is down.) After several attempts if the connection is still not established, program will stop. If it works, it will retrieve and parse the information to the console. Then it will try to connect to the Nearby Cities API and parse the information for that. That is really it, it is a simple application that demonstrates knowledge of communicating t the cloud using REST APIs and deserializing JSON.
